@@ -8,7 +8,7 @@ In particular, the project involves incrementally building a system to reason ab
 
  <p align="center">
     <img src="logo-mel.png" alt="logo project" width="400">
-    <img src="rmitlogo.png" alt="logo rmit" width="400">
+
  </p>
 
 -------------------
