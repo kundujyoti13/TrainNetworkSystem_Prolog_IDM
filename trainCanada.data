@@ -1,0 +1,57 @@
+%Line format:  City 1, City 2, Speed Limit (km/h), Length (km)
+
+Montreal, Sherbrooke, 150, 145
+Sherbrooke, Quebec City, 140, 215
+Quebec City, Montreal, 200, 270
+Montreal, Alexandria, 180, 100
+Alexandria, Ottawa, 180, 100
+Ottawa, Cornwall, 120, 80
+Ottawa, Brockville, 120, 110
+Ottawa, North Bay, 150, 350
+North Bay, Sudbury, 90, 150
+North Bay, Toronto, 150, 350
+Montreal, Cornwall, 200, 100
+Cornwall, Brockville, 210, 100
+Brockville, Kingston, 230, 80
+Kingston, Toronto, 250, 260
+Toronto, Kitchener, 200, 100
+Kitchener, London, 200, 95
+London, Chatham, 200, 105
+Chatham, Windsor, 170, 70
+Chatham, Sarnia, 150, 70
+Sarnia, London, 150, 95
+London, Brantford, 180, 80
+Brantford, Kitchener, 100, 30
+Brantford, Hamilton, 130, 40
+Hamilton, Niagara Falls, 120, 70
+Hamilton, Toronto, 150, 60
+
+%Line format:  City, Minimum freight train stop time (min), Minimum
+%passenger train stop time (min).
+
+Montreal,       20,     15
+Sherbrooke,     0,      3
+Quebec City,    10,     10
+Alexandria,     0,      3
+Ottawa,         10,     10
+Cornwall,       0,      3
+Brockville,     0,      3
+North Bay,      0,      5
+Sudbury,        0,      5
+Toronto,        20,     15
+Kingston,       10,     10
+Kitchener,      0,      5
+London,         0,      8
+Chatham,        0,      3
+Windsor,        10,     8
+Sarnia,         10,     8
+Brantford,      0,      3
+Hamilton,       0,      5
+Niagara Falls,  0,      3
+
+%Line format:  Train type, Maximum speed (km/h)
+
+Freight, 120
+Passenger, 200
+
+
